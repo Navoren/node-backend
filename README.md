@@ -32,6 +32,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Notes
 
-[Express Notes](./notes/Express.md)
-[Versioning](./notes/Versioning.md)
+- [Express Notes](./notes/Express.md)
+- [Versioning](./notes/Versioning.md)
 
