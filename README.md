@@ -28,3 +28,10 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+## Notes
+
+[Express Notes](./notes/Express.md)
+[Versioning](./notes/Versioning.md)
+
