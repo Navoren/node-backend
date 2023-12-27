@@ -34,4 +34,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Express Notes](./basics/notes/Express.md)
 - [Versioning](./basics/notes/Versioning.md)
+- [Mongoose & MongoDB](./basics/notes/Mongoose.md)
+
+
+
 
